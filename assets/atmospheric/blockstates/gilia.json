@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "atmospheric:block/gilia" },
+      { "model": "atmospheric:block/gilia/two_gilias" },
+      { "model": "atmospheric:block/gilia/two_gilias_alt" },
+      { "model": "atmospheric:block/gilia/three_gilias" },
+      { "model": "atmospheric:block/gilia/three_gilias_alt" }
+    ]
+  }
+}

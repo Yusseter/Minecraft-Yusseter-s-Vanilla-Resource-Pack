@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "trailiertales:block/cyan_rose" },
+      { "model": "trailiertales:block/cyan_rose/two_cyan_roses" },
+      { "model": "trailiertales:block/cyan_rose/two_cyan_roses_alt" },
+      { "model": "trailiertales:block/cyan_rose/three_cyan_roses" },
+      { "model": "trailiertales:block/cyan_rose/three_cyan_roses_alt" }
+    ]
+  }
+}

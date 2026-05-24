@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "biomesoplenty:block/rose" },
+      { "model": "biomesoplenty:block/rose/two_roses" },
+      { "model": "biomesoplenty:block/rose/two_roses_alt" },
+      { "model": "biomesoplenty:block/rose/three_roses" },
+      { "model": "biomesoplenty:block/rose/three_roses_alt" }
+    ]
+  }
+}

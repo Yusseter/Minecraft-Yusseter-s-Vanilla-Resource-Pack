@@ -1,0 +1,6 @@
+{
+  "parent": "flower_clusters:block/two_crosses_double",
+  "textures": {
+    "cross": "natures_spirit:block/anemone"
+  }
+}

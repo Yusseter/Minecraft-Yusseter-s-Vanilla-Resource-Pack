@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "environmental:block/red_lotus_flower" },
+      { "model": "environmental:block/red_lotus_flower/two_red_lotus_flowers" },
+      { "model": "environmental:block/red_lotus_flower/two_red_lotus_flowers_alt" },
+      { "model": "environmental:block/red_lotus_flower/three_red_lotus_flowers" },
+      { "model": "environmental:block/red_lotus_flower/three_red_lotus_flowers_alt" }
+    ]
+  }
+}

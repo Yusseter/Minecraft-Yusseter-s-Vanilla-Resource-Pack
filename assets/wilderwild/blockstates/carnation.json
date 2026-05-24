@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "wilderwild:block/carnation" },
+      { "model": "wilderwild:block/carnation/two_carnations" },
+      { "model": "wilderwild:block/carnation/two_carnations_alt" },
+      { "model": "wilderwild:block/carnation/three_carnations" },
+      { "model": "wilderwild:block/carnation/three_carnations_alt" }
+    ]
+  }
+}

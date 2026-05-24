@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "atmospheric:block/firethorn" },
+      { "model": "atmospheric:block/firethorn/two_firethorns" },
+      { "model": "atmospheric:block/firethorn/two_firethorns_alt" },
+      { "model": "atmospheric:block/firethorn/three_firethorns" },
+      { "model": "atmospheric:block/firethorn/three_firethorns_alt" }
+    ]
+  }
+}

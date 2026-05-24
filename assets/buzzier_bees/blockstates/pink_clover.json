@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "buzzier_bees:block/pink_clover" },
+      { "model": "buzzier_bees:block/pink_clover/two_pink_clovers" },
+      { "model": "buzzier_bees:block/pink_clover/two_pink_clovers_alt" },
+      { "model": "buzzier_bees:block/pink_clover/three_pink_clovers" },
+      { "model": "buzzier_bees:block/pink_clover/three_pink_clovers_alt" }
+    ]
+  }
+}

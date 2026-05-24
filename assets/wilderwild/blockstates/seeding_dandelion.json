@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "wilderwild:block/seeding_dandelion" },
+      { "model": "wilderwild:block/seeding_dandelion/two_seeding_dandelions" },
+      { "model": "wilderwild:block/seeding_dandelion/two_seeding_dandelions_alt" },
+      { "model": "wilderwild:block/seeding_dandelion/three_seeding_dandelions" },
+      { "model": "wilderwild:block/seeding_dandelion/three_seeding_dandelions_alt" }
+    ]
+  }
+}

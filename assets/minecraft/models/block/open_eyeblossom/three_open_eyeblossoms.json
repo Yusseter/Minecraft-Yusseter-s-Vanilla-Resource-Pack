@@ -1,0 +1,7 @@
+{
+  "parent": "flower_clusters:block/three_crosses_emissive",
+  "textures": {
+    "cross": "minecraft:block/open_eyeblossom",
+    "cross_emissive": "minecraft:block/open_eyeblossom_emissive"
+  }
+}

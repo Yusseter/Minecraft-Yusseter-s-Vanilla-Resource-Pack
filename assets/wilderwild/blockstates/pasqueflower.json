@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "wilderwild:block/pasqueflower" },
+      { "model": "wilderwild:block/pasqueflower/two_pasqueflowers" },
+      { "model": "wilderwild:block/pasqueflower/two_pasqueflowers_alt" },
+      { "model": "wilderwild:block/pasqueflower/three_pasqueflowers" },
+      { "model": "wilderwild:block/pasqueflower/three_pasqueflowers_alt" }
+    ]
+  }
+}

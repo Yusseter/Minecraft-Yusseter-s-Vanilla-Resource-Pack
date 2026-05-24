@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "environmental:block/dianthus" },
+      { "model": "environmental:block/dianthus/two_dianthuses" },
+      { "model": "environmental:block/dianthus/two_dianthuses_alt" },
+      { "model": "environmental:block/dianthus/three_dianthuses" },
+      { "model": "environmental:block/dianthus/three_dianthuses_alt" }
+    ]
+  }
+}

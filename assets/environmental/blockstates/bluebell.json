@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "environmental:block/bluebell" },
+      { "model": "environmental:block/bluebell/two_bluebells" },
+      { "model": "environmental:block/bluebell/two_bluebells_alt" },
+      { "model": "environmental:block/bluebell/three_bluebells" },
+      { "model": "environmental:block/bluebell/three_bluebells_alt" }
+    ]
+  }
+}

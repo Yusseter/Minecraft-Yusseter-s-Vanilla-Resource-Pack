@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "biomesoplenty:block/orange_cosmos" },
+      { "model": "biomesoplenty:block/orange_cosmos/two_orange_cosmoses" },
+      { "model": "biomesoplenty:block/orange_cosmos/two_orange_cosmoses_alt" },
+      { "model": "biomesoplenty:block/orange_cosmos/three_orange_cosmoses" },
+      { "model": "biomesoplenty:block/orange_cosmos/three_orange_cosmoses_alt" }
+    ]
+  }
+}

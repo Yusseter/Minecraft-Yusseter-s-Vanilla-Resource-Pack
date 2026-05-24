@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "natures_spirit:block/hibiscus" },
+      { "model": "natures_spirit:block/hibiscus/two_hibiscuses" },
+      { "model": "natures_spirit:block/hibiscus/two_hibiscuses_alt" },
+      { "model": "natures_spirit:block/hibiscus/three_hibiscuses" },
+      { "model": "natures_spirit:block/hibiscus/three_hibiscuses_alt" }
+    ]
+  }
+}

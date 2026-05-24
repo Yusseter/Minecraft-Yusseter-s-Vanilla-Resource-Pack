@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "aether:block/white_flower" },
+      { "model": "aether:block/white_flower/two_white_flowers" },
+      { "model": "aether:block/white_flower/two_white_flowers_alt" },
+      { "model": "aether:block/white_flower/three_white_flowers" },
+      { "model": "aether:block/white_flower/three_white_flowers_alt" }
+    ]
+  }
+}

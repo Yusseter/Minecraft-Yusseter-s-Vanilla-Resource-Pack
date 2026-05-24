@@ -1,0 +1,6 @@
+{
+  "parent": "flower_clusters:block/three_crosses_alt",
+  "textures": {
+    "cross": "aether:block/natural/purple_flower"
+  }
+}

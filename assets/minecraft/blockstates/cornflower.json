@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/cornflower" },
+      { "model": "minecraft:block/cornflower/two_cornflowers" },
+      { "model": "minecraft:block/cornflower/two_cornflowers_alt" },
+      { "model": "minecraft:block/cornflower/three_cornflowers" },
+      { "model": "minecraft:block/cornflower/three_cornflowers_alt" }
+    ]
+  }
+}

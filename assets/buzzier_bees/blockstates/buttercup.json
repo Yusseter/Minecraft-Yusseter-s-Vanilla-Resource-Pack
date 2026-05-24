@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "buzzier_bees:block/buttercup" },
+      { "model": "buzzier_bees:block/buttercup/two_buttercups" },
+      { "model": "buzzier_bees:block/buttercup/two_buttercups_alt" },
+      { "model": "buzzier_bees:block/buttercup/three_buttercups" },
+      { "model": "buzzier_bees:block/buttercup/three_buttercups_alt" }
+    ]
+  }
+}

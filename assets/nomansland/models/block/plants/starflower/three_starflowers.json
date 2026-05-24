@@ -1,0 +1,7 @@
+{
+  "parent": "flower_clusters:block/three_crosses",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "cross": "nomansland:block/plants/starflower"
+  }
+}

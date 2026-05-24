@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "biomesoplenty:block/burning_blossom" },
+      { "model": "biomesoplenty:block/burning_blossom/two_burning_blossoms" },
+      { "model": "biomesoplenty:block/burning_blossom/two_burning_blossoms_alt" },
+      { "model": "biomesoplenty:block/burning_blossom/three_burning_blossoms" },
+      { "model": "biomesoplenty:block/burning_blossom/three_burning_blossoms_alt" }
+    ]
+  }
+}

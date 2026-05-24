@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/white_tulip" },
+      { "model": "minecraft:block/white_tulip/two_white_tulips" },
+      { "model": "minecraft:block/white_tulip/two_white_tulips_alt" },
+      { "model": "minecraft:block/white_tulip/three_white_tulips" },
+      { "model": "minecraft:block/white_tulip/three_white_tulips_alt" }
+    ]
+  }
+}

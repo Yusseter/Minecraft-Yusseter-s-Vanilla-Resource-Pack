@@ -1,0 +1,48 @@
+{
+  "variants": {
+    "facing=east": [
+      { "model": "block/carved_pumpkin/00", "y": 90 },
+      { "model": "block/carved_pumpkin/01", "y": 90 },
+      { "model": "block/carved_pumpkin/02", "y": 90 },
+      { "model": "block/carved_pumpkin/03", "y": 90 },
+      { "model": "block/carved_pumpkin/04", "y": 90 },
+      { "model": "block/carved_pumpkin/05", "y": 90 },
+      { "model": "block/carved_pumpkin/06", "y": 90 },
+      { "model": "block/carved_pumpkin/07", "y": 90 }
+    ],
+
+    "facing=north": [
+      { "model": "block/carved_pumpkin/00" },
+      { "model": "block/carved_pumpkin/01" },
+      { "model": "block/carved_pumpkin/02" },
+      { "model": "block/carved_pumpkin/03" },
+      { "model": "block/carved_pumpkin/04" },
+      { "model": "block/carved_pumpkin/05" },
+      { "model": "block/carved_pumpkin/06" },
+      { "model": "block/carved_pumpkin/07" }
+    ],
+
+    "facing=south": [
+      { "model": "block/carved_pumpkin/00", "y": 180 },
+      { "model": "block/carved_pumpkin/01", "y": 180 },
+      { "model": "block/carved_pumpkin/02", "y": 180 },
+      { "model": "block/carved_pumpkin/03", "y": 180 },
+      { "model": "block/carved_pumpkin/04", "y": 180 },
+      { "model": "block/carved_pumpkin/05", "y": 180 },
+      { "model": "block/carved_pumpkin/06", "y": 180 },
+      { "model": "block/carved_pumpkin/07", "y": 180 }
+    ],
+
+    "facing=west": [
+      { "model": "block/carved_pumpkin/00", "y": 270 },
+      { "model": "block/carved_pumpkin/01", "y": 270 },
+      { "model": "block/carved_pumpkin/02", "y": 270 },
+      { "model": "block/carved_pumpkin/03", "y": 270 },
+      { "model": "block/carved_pumpkin/04", "y": 270 },
+      { "model": "block/carved_pumpkin/05", "y": 270 },
+      { "model": "block/carved_pumpkin/06", "y": 270 },
+      { "model": "block/carved_pumpkin/07", "y": 270 }
+    ]
+
+  }
+}

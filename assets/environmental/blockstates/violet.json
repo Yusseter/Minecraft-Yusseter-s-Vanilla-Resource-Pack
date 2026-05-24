@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "environmental:block/violet" },
+      { "model": "environmental:block/violet/two_violets" },
+      { "model": "environmental:block/violet/two_violets_alt" },
+      { "model": "environmental:block/violet/three_violets" },
+      { "model": "environmental:block/violet/three_violets_alt" }
+    ]
+  }
+}

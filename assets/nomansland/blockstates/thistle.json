@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "nomansland:block/plants/thistle" },
+      { "model": "nomansland:block/plants/thistle/two_thistles" },
+      { "model": "nomansland:block/plants/thistle/two_thistles_alt" },
+      { "model": "nomansland:block/plants/thistle/three_thistles" },
+      { "model": "nomansland:block/plants/thistle/three_thistles_alt" }
+    ]
+  }
+}

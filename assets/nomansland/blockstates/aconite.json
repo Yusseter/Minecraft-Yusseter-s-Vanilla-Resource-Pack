@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "nomansland:block/plants/aconite" },
+      { "model": "nomansland:block/plants/aconite/two_aconites" },
+      { "model": "nomansland:block/plants/aconite/two_aconites_alt" },
+      { "model": "nomansland:block/plants/aconite/three_aconites" },
+      { "model": "nomansland:block/plants/aconite/three_aconites_alt" }
+    ]
+  }
+}

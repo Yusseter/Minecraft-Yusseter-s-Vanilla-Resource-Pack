@@ -1,0 +1,810 @@
+{
+  "model": 
+  {
+    "type": "condition",
+    "property": "component",
+    "predicate": "enchantments",
+    "value": [
+      {
+        "enchantments": "mending"
+      }
+    ],
+    "on_true": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow_enchanted"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1_enchanted"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2_enchanted"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0_enchanted"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    },
+    "on_false": {
+      "type": "condition",
+    "property": "component",
+    "predicate": "enchantments",
+    "value": [
+      {
+        "enchantments": "infinity"
+      }
+    ],
+    "on_true": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow_enchanted"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1_enchanted"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2_enchanted"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0_enchanted"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    },
+    "on_false": {
+      "type": "condition",
+    "property": "component",
+    "predicate": "enchantments",
+    "value": [
+      {
+        "enchantments": "power"
+      }
+    ],
+    "on_true": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow_enchanted"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1_enchanted"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2_enchanted"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0_enchanted"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    },
+    "on_false": {
+      "type": "condition",
+    "property": "component",
+    "predicate": "enchantments",
+    "value": [
+      {
+        "enchantments": "punch"
+      }
+    ],
+    "on_true": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow_enchanted"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1_enchanted"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2_enchanted"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0_enchanted"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    },
+    "on_false": {
+      "type": "condition",
+    "property": "component",
+    "predicate": "enchantments",
+    "value": [
+      {
+        "enchantments": "binding_curse"
+      }
+    ],
+    "on_true": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow_enchanted"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1_enchanted"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2_enchanted"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0_enchanted"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    },
+    "on_false": {
+      "type": "condition",
+    "property": "component",
+    "predicate": "enchantments",
+    "value": [
+      {
+        "enchantments": "vanishing_curse"
+      }
+    ],
+    "on_true": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow_enchanted"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1_enchanted"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2_enchanted"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0_enchanted"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    },
+    "on_false": {
+      "type": "condition",
+    "property": "component",
+    "predicate": "enchantments",
+    "value": [
+      {
+        "enchantments": "efficiency"
+      }
+    ],
+    "on_true": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow_enchanted"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1_enchanted"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2_enchanted"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0_enchanted"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    },
+    "on_false": {
+      "type": "condition",
+    "property": "component",
+    "predicate": "enchantments",
+    "value": [
+      {
+        "enchantments": "fire_aspect"
+      }
+    ],
+    "on_true": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow_enchanted"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1_enchanted"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2_enchanted"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0_enchanted"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    },
+    "on_false": {
+      "type": "condition",
+    "property": "component",
+    "predicate": "enchantments",
+    "value": [
+      {
+        "enchantments": "fortune"
+      }
+    ],
+    "on_true": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow_enchanted"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1_enchanted"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2_enchanted"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0_enchanted"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    },
+    "on_false": {
+      "type": "condition",
+    "property": "component",
+    "predicate": "enchantments",
+    "value": [
+      {
+        "enchantments": "knockback"
+      }
+    ],
+    "on_true": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow_enchanted"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1_enchanted"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2_enchanted"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0_enchanted"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    },
+    "on_false": {
+      "type": "condition",
+    "property": "component",
+    "predicate": "enchantments",
+    "value": [
+      {
+        "enchantments": "looting"
+      }
+    ],
+    "on_true": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow_enchanted"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1_enchanted"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2_enchanted"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0_enchanted"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    },
+    "on_false": {
+      "type": "condition",
+    "property": "component",
+    "predicate": "enchantments",
+    "value": [
+      {
+        "enchantments": "loyalty"
+      }
+    ],
+    "on_true": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow_enchanted"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1_enchanted"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2_enchanted"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0_enchanted"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    },
+    "on_false": {
+      "type": "condition",
+    "property": "component",
+    "predicate": "enchantments",
+    "value": [
+      {
+        "enchantments": "riptide"
+      }
+    ],
+    "on_true": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow_enchanted"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1_enchanted"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2_enchanted"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0_enchanted"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    },
+    "on_false": {
+      "type": "condition",
+    "property": "component",
+    "predicate": "enchantments",
+    "value": [
+      {
+        "enchantments": "silk_touch"
+      }
+    ],
+    "on_true": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow_enchanted"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1_enchanted"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2_enchanted"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0_enchanted"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    },
+    "on_false": {
+      "type": "condition",
+    "property": "component",
+    "predicate": "enchantments",
+    "value": [
+      {
+        "enchantments": "smite"
+      }
+    ],
+    "on_true": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow_enchanted"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1_enchanted"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2_enchanted"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0_enchanted"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    },
+    "on_false": {
+      "type": "condition",
+    "property": "component",
+    "predicate": "enchantments",
+    "value": [
+      {
+        "enchantments": "sweeping_edge"
+      }
+    ],
+    "on_true": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow_enchanted"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1_enchanted"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2_enchanted"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0_enchanted"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    },
+    "on_false": {
+      "type": "condition",
+    "property": "component",
+    "predicate": "enchantments",
+    "value": [
+      {
+        "enchantments": "unbreaking"
+      }
+    ],
+    "on_true": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow_enchanted"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1_enchanted"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2_enchanted"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0_enchanted"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    },
+    "on_false": {
+      "type": "condition",
+    "property": "component",
+    "predicate": "enchantments",
+    "value": [
+      {
+        "enchantments": "flame"
+      }
+    ],
+    "on_true": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow_enchanted"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1_enchanted"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2_enchanted"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0_enchanted"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    },
+    "on_false": {
+      "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1"
+          },
+          "threshold": 0.65
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow_pulling_0"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+  }
+}

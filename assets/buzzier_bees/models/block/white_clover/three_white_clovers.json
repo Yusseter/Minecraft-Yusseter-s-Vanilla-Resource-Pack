@@ -1,0 +1,6 @@
+{
+  "parent": "flower_clusters:block/three_crosses",
+  "textures": {
+    "cross": "buzzier_bees:block/white_clover"
+  }
+}

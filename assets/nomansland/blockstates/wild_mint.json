@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "nomansland:block/plants/wild_mint" },
+      { "model": "nomansland:block/plants/wild_mint/two_wild_mints" },
+      { "model": "nomansland:block/plants/wild_mint/two_wild_mints_alt" },
+      { "model": "nomansland:block/plants/wild_mint/three_wild_mints" },
+      { "model": "nomansland:block/plants/wild_mint/three_wild_mints_alt" }
+    ]
+  }
+}

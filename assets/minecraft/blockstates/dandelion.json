@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/dandelion" },
+      { "model": "minecraft:block/dandelion/two_dandelions" },
+      { "model": "minecraft:block/dandelion/two_dandelions_alt" },
+      { "model": "minecraft:block/dandelion/three_dandelions" },
+      { "model": "minecraft:block/dandelion/three_dandelions_alt" }
+    ]
+  }
+}

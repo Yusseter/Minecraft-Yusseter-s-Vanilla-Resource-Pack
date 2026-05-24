@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "environmental:block/orange_hibiscus" },
+      { "model": "environmental:block/orange_hibiscus/two_orange_hibiscuses" },
+      { "model": "environmental:block/orange_hibiscus/two_orange_hibiscuses_alt" },
+      { "model": "environmental:block/orange_hibiscus/three_orange_hibiscuses" },
+      { "model": "environmental:block/orange_hibiscus/three_orange_hibiscuses_alt" }
+    ]
+  }
+}

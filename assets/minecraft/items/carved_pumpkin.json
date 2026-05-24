@@ -1,0 +1,71 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:has_component",
+    "component": "minecraft:custom_name",
+    "on_true": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_name",
+      "cases": [
+        {
+          "when": "Anxious",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/carved_pumpkin/01"
+          }
+        },
+        {
+          "when": "Happy",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/carved_pumpkin/02"
+          }
+        },
+        {
+          "when": "Skull",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/carved_pumpkin/03"
+          }
+        },
+        {
+          "when": "Derpy",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/carved_pumpkin/04"
+          }
+        },
+        {
+          "when": "Angry",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/carved_pumpkin/00"
+          }
+        },
+        {
+          "when": "Ghost",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/carved_pumpkin/06"
+          }
+        },
+        {
+          "when": "Creeper",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/carved_pumpkin/07"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:block/carved_pumpkin/05"
+      }
+    },
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/carved_pumpkin/05"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "verdance:block/violet" },
+      { "model": "verdance:block/violet/two_violets" },
+      { "model": "verdance:block/violet/two_violets_alt" },
+      { "model": "verdance:block/violet/three_violets" },
+      { "model": "verdance:block/violet/three_violets_alt" }
+    ]
+  }
+}

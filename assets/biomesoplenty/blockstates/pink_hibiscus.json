@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "biomesoplenty:block/pink_hibiscus" },
+      { "model": "biomesoplenty:block/pink_hibiscus/two_pink_hibiscuses" },
+      { "model": "biomesoplenty:block/pink_hibiscus/two_pink_hibiscuses_alt" },
+      { "model": "biomesoplenty:block/pink_hibiscus/three_pink_hibiscuses" },
+      { "model": "biomesoplenty:block/pink_hibiscus/three_pink_hibiscuses_alt" }
+    ]
+  }
+}

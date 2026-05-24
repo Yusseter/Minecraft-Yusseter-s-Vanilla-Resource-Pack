@@ -1,0 +1,6 @@
+{
+  "parent": "flower_clusters:block/three_crosses",
+  "textures": {
+    "cross": "minecraft:block/closed_eyeblossom"
+  }
+}

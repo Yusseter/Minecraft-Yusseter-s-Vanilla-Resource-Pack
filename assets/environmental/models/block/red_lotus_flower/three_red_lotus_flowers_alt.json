@@ -1,0 +1,6 @@
+{
+  "parent": "flower_clusters:block/three_crosses_alt",
+  "textures": {
+    "cross": "environmental:block/red_lotus_flower"
+  }
+}

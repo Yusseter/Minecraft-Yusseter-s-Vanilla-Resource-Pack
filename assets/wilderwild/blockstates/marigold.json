@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "wilderwild:block/marigold" },
+      { "model": "wilderwild:block/marigold/two_marigolds" },
+      { "model": "wilderwild:block/marigold/two_marigolds_alt" },
+      { "model": "wilderwild:block/marigold/three_marigolds" },
+      { "model": "wilderwild:block/marigold/three_marigolds_alt" }
+    ]
+  }
+}

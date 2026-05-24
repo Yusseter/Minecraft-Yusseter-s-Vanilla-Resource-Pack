@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/wither_rose" },
+      { "model": "minecraft:block/wither_rose/two_wither_roses" },
+      { "model": "minecraft:block/wither_rose/two_wither_roses_alt" },
+      { "model": "minecraft:block/wither_rose/three_wither_roses" },
+      { "model": "minecraft:block/wither_rose/three_wither_roses_alt" }
+    ]
+  }
+}

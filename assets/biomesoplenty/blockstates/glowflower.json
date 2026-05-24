@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "biomesoplenty:block/glowflower" },
+      { "model": "biomesoplenty:block/glowflower/two_glowflowers" },
+      { "model": "biomesoplenty:block/glowflower/two_glowflowers_alt" },
+      { "model": "biomesoplenty:block/glowflower/three_glowflowers" },
+      { "model": "biomesoplenty:block/glowflower/three_glowflowers_alt" }
+    ]
+  }
+}

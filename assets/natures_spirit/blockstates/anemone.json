@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "natures_spirit:block/anemone" },
+      { "model": "natures_spirit:block/anemone/two_anemones" },
+      { "model": "natures_spirit:block/anemone/two_anemones_alt" },
+      { "model": "natures_spirit:block/anemone/three_anemones" },
+      { "model": "natures_spirit:block/anemone/three_anemones_alt" }
+    ]
+  }
+}

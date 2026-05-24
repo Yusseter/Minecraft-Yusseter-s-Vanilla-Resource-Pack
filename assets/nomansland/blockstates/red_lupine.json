@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "nomansland:block/plants/red_lupine" },
+      { "model": "nomansland:block/plants/red_lupine/two_red_lupines" },
+      { "model": "nomansland:block/plants/red_lupine/two_red_lupines_alt" },
+      { "model": "nomansland:block/plants/red_lupine/three_red_lupines" },
+      { "model": "nomansland:block/plants/red_lupine/three_red_lupines_alt" }
+    ]
+  }
+}

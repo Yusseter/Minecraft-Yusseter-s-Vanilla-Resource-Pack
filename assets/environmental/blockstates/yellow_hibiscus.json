@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "environmental:block/yellow_hibiscus" },
+      { "model": "environmental:block/yellow_hibiscus/two_yellow_hibiscuses" },
+      { "model": "environmental:block/yellow_hibiscus/two_yellow_hibiscuses_alt" },
+      { "model": "environmental:block/yellow_hibiscus/three_yellow_hibiscuses" },
+      { "model": "environmental:block/yellow_hibiscus/three_yellow_hibiscuses_alt" }
+    ]
+  }
+}

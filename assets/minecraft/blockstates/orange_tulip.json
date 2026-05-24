@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/orange_tulip" },
+      { "model": "minecraft:block/orange_tulip/two_orange_tulips" },
+      { "model": "minecraft:block/orange_tulip/two_orange_tulips_alt" },
+      { "model": "minecraft:block/orange_tulip/three_orange_tulips" },
+      { "model": "minecraft:block/orange_tulip/three_orange_tulips_alt" }
+    ]
+  }
+}

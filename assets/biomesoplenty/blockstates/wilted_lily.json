@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "biomesoplenty:block/wilted_lily" },
+      { "model": "biomesoplenty:block/wilted_lily/two_wilted_lilies" },
+      { "model": "biomesoplenty:block/wilted_lily/two_wilted_lilies_alt" },
+      { "model": "biomesoplenty:block/wilted_lily/three_wilted_lilies" },
+      { "model": "biomesoplenty:block/wilted_lily/three_wilted_lilies_alt" }
+    ]
+  }
+}

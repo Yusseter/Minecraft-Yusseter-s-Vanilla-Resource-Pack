@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/allium" },
+      { "model": "minecraft:block/allium/two_alliums" },
+      { "model": "minecraft:block/allium/two_alliums_alt" },
+      { "model": "minecraft:block/allium/three_alliums" },
+      { "model": "minecraft:block/allium/three_alliums_alt" }
+    ]
+  }
+}

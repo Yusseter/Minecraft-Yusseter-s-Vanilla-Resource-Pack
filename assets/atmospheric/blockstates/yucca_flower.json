@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "atmospheric:block/yucca_flower" },
+      { "model": "atmospheric:block/yucca_flower/two_yucca_flowers" },
+      { "model": "atmospheric:block/yucca_flower/two_yucca_flowers_alt" },
+      { "model": "atmospheric:block/yucca_flower/three_yucca_flowers" },
+      { "model": "atmospheric:block/yucca_flower/three_yucca_flowers_alt" }
+    ]
+  }
+}

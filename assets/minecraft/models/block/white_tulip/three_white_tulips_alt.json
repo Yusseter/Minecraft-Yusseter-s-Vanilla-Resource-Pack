@@ -1,0 +1,6 @@
+{
+  "parent": "flower_clusters:block/three_crosses_alt",
+  "textures": {
+    "cross": "minecraft:block/white_tulip"
+  }
+}

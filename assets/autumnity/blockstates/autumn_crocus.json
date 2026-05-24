@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "autumnity:block/autumn_crocus" },
+      { "model": "autumnity:block/autumn_crocus/two_autumn_crocuses" },
+      { "model": "autumnity:block/autumn_crocus/two_autumn_crocuses_alt" },
+      { "model": "autumnity:block/autumn_crocus/three_autumn_crocuses" },
+      { "model": "autumnity:block/autumn_crocus/three_autumn_crocuses_alt" }
+    ]
+  }
+}

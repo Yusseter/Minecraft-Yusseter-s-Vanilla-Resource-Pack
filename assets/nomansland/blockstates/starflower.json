@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "nomansland:block/plants/starflower" },
+      { "model": "nomansland:block/plants/starflower/two_starflowers" },
+      { "model": "nomansland:block/plants/starflower/two_starflowers_alt" },
+      { "model": "nomansland:block/plants/starflower/three_starflowers" },
+      { "model": "nomansland:block/plants/starflower/three_starflowers_alt" }
+    ]
+  }
+}

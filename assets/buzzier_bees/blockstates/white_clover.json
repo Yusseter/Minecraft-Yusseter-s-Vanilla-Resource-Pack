@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "buzzier_bees:block/white_clover" },
+      { "model": "buzzier_bees:block/white_clover/two_white_clovers" },
+      { "model": "buzzier_bees:block/white_clover/two_white_clovers_alt" },
+      { "model": "buzzier_bees:block/white_clover/three_white_clovers" },
+      { "model": "buzzier_bees:block/white_clover/three_white_clovers_alt" }
+    ]
+  }
+}

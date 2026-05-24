@@ -1,0 +1,7 @@
+{
+  "parent": "flower_clusters:block/two_crosses_alt",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "cross": "nomansland:block/plants/red_lupine"
+  }
+}

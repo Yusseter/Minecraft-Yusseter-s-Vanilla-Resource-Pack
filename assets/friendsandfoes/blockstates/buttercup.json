@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "friendsandfoes:block/buttercup" },
+      { "model": "friendsandfoes:block/buttercup/two_buttercups" },
+      { "model": "friendsandfoes:block/buttercup/two_buttercups_alt" },
+      { "model": "friendsandfoes:block/buttercup/three_buttercups" },
+      { "model": "friendsandfoes:block/buttercup/three_buttercups_alt" }
+    ]
+  }
+}

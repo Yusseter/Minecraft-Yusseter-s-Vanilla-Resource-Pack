@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/open_eyeblossom" },
+      { "model": "minecraft:block/open_eyeblossom/two_open_eyeblossoms" },
+      { "model": "minecraft:block/open_eyeblossom/two_open_eyeblossoms_alt" },
+      { "model": "minecraft:block/open_eyeblossom/three_open_eyeblossoms" },
+      { "model": "minecraft:block/open_eyeblossom/three_open_eyeblossoms_alt" }
+    ]
+  }
+}

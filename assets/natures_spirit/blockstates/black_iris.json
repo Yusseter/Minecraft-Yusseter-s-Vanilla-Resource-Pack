@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "natures_spirit:block/black_iris" },
+      { "model": "natures_spirit:block/black_iris/two_black_irises" },
+      { "model": "natures_spirit:block/black_iris/two_black_irises_alt" },
+      { "model": "natures_spirit:block/black_iris/three_black_irises" },
+      { "model": "natures_spirit:block/black_iris/three_black_irises_alt" }
+    ]
+  }
+}

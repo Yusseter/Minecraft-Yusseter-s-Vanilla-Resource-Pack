@@ -1,0 +1,6 @@
+{
+  "parent": "flower_clusters:block/three_crosses_alt",
+  "textures": {
+    "cross": "natures_spirit:block/hibiscus"
+  }
+}

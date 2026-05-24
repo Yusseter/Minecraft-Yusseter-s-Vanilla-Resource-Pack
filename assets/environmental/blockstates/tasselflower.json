@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "environmental:block/tasselflower" },
+      { "model": "environmental:block/tasselflower/two_tasselflowers" },
+      { "model": "environmental:block/tasselflower/two_tasselflowers_alt" },
+      { "model": "environmental:block/tasselflower/three_tasselflowers" },
+      { "model": "environmental:block/tasselflower/three_tasselflowers_alt" }
+    ]
+  }
+}

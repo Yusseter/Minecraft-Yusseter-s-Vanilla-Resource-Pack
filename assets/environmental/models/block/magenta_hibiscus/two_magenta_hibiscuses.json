@@ -1,0 +1,6 @@
+{
+  "parent": "flower_clusters:block/two_crosses",
+  "textures": {
+    "cross": "environmental:block/magenta_hibiscus"
+  }
+}
